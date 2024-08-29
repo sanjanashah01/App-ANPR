@@ -1,0 +1,4908 @@
+{
+  "cityname" : [
+  {
+    "city": "Port Blair",
+    "stateKey": "Andaman and Nicobar"
+  },
+  {
+    "city": "Adoni",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Amalapuram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Anakapalle",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Anantapur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Bapatla",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Bheemunipatnam",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Bhimavaram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Bobbili",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Chilakaluripet",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Chirala",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Chittoor",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Dharmavaram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Eluru",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Gooty",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Gudivada",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Gudur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Guntakal",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Guntur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Hindupur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Jaggaiahpet",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Jammalamadugu",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kadapa",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kadiri",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kakinada",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kandukur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kavali",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kovvur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Kurnool",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Macherla",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Machilipatnam",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Madanapalle",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Mandapeta",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Markapur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Nagari",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Naidupet",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Nandyal",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Narasapuram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Narasaraopet",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Narsipatnam",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Nellore",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Nidadavole",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Nuzvid",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Ongole",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Palacole",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Palasa Kasibugga",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Parvathipuram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Pedana",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Peddapuram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Pithapuram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Ponnur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Proddatur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Punganur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Puttur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Rajahmundry",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Rajam",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Rajampet",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Ramachandrapuram",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Rayachoti",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Rayadurg",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Renigunta",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Repalle",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Salur",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Samalkot",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Sattenapalle",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Srikakulam",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Srikalahasti",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Srisailam Project (Right Flank Colony) Township",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Sullurpeta",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tadepalligudem",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tadpatri",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tanuku",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tenali",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tirupati",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tiruvuru",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Tuni",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Uravakonda",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Venkatagiri",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Vijayawada",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Vinukonda",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "city": "Visakhapatnam",
+    "stateKey": "Andhra Pradesh"
+  },
+  {
+    "stateKey": "Andhra Pradesh",
+    "city": "Vizianagaram"
+  },      
+  {
+    "stateKey": "Andhra Pradesh",
+    "city": "Yemmiganur"
+  },
+  {
+    "stateKey": "Andhra Pradesh",
+    "city": "Yerraguntla"
+  },
+  {
+    "city": "Ambapuram", 
+    "stateKey": "Arunachal Pradesh"
+  }, 
+  {
+    "city": "Naharlagun", 
+    "stateKey": "Arunachal Pradesh"
+  }, 
+  {
+    "city": "Pasighat", 
+    "stateKey": "Arunachal Pradesh"
+  }, 
+  {
+    "city": "Barpeta",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Bongaigaon City",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Dhubri",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Dibrugarh",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Diphu",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Goalpara",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Jorhat",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Karimganj",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Lanka",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Lumding",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Mangaldoi",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Mankachar",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Margherita",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Mariani",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Marigaon",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Nagaon",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Nalbari",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "North Lakhimpur",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Rangia",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Sibsagar",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Silapathar",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Silchar",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Tezpur",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Tinsukia",
+    "stateKey": "Assam"
+  },
+  {
+    "city": "Araria",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Arrah",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Arwal",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Asarganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Aurangabad",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Bagaha",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Barh",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Begusarai",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Bettiah",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Bhabua",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Bhagalpur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Buxar",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Chhapra",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Darbhanga",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Dehri-on-Sone",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Dumraon",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Forbesganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Gaya",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Gopalganj",
+    "stateKey": "Bihar"
+  },  
+  {
+    "city": "Guwahati", 
+    "stateKey": "Bihar"
+  }, 
+  {
+    "city": "Hajipur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Jamalpur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Jamui",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Jehanabad",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Katihar",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Kishanganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Lakhisarai",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Lalganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Madhepura",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Madhubani",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Maharajganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Mahnar Bazar",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Makhdumpur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Maner",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Manihari",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Marhaura",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Masaurhi",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Mirganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Mokameh",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Motihari",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Motipur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Munger",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Murliganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Muzaffarpur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Narkatiaganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Naugachhia",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Nawada",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Nokha",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Patna",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Piro",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Purnia",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Rafiganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Rajgir",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Ramnagar",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Raxaul Bazar",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Revelganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Rosera",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Saharsa",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Samastipur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sasaram",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sheikhpura",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sheohar",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sherghati",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Silao",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sitamarhi",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Siwan",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sonepur",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sugauli",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Sultanganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Supaul",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Warisaliganj",
+    "stateKey": "Bihar"
+  },
+  {
+    "city": "Chandigarh",
+    "stateKey": "Chandigarh"
+  },
+  {
+    "city": "Ambikapur",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Bhatapara",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Bhilai Nagar",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Bilaspur",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Chirmiri",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Dalli-Rajhara",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Dhamtari",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Durg",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Jagdalpur",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Korba",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Mahasamund",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Manendragarh",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Mungeli",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Naila Janjgir",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Raigarh",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Raipur",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Rajnandgaon",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Sakti",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Tilda Newra",
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Bilaspur", 
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Raipur", 
+    "stateKey": "Chhattisgarh"
+  },
+  {
+    "city": "Silvassa", 
+    "stateKey": "Dadra and Nagar Haveli"
+  },
+  {
+    "city": "Daman and Diu", 
+    "stateKey": "Daman and Diu"
+  },
+  {
+    "city": "Delhi", 
+    "stateKey": "Delhi"
+  },
+  {
+    "city": "Mapusa",
+    "stateKey": "Goa"
+  },
+  {
+    "city": "Margao",
+    "stateKey": "Goa"
+  },
+  {
+    "city": "Marmagao",
+    "stateKey": "Goa"
+  },
+  {
+    "city": "Panaji",
+    "stateKey": "Goa"
+  },
+  {
+    "city": "Adalaj",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Ahmedabad",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Amreli",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Anand",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Anjar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Ankleshwar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Bharuch",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Bhavnagar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Bhuj",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Chhapra",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Deesa",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Dhoraji",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Godhra",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Jamnagar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Kadi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Kapadvanj",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Keshod",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Khambhat",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Lathi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Limbdi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Lunawada",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Mahesana",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Mahuva",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Manavadar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Mandvi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Mangrol",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Mansa",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Mahemdabad",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Modasa",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Morvi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Nadiad",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Navsari",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Padra",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Palanpur",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Palitana",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Pardi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Patan",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Petlad",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Porbandar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Radhanpur",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Rajkot",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Rajpipla",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Rajula",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Ranavav",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Rapar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Salaya",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Sanand",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Savarkundla",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Sidhpur",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Sihor",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Songadh",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Surat",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Talaja",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Thangadh",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Tharad",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Umbergaon",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Umreth",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Una",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Unjha",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Upleta",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Vadnagar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Vadodara",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Valsad",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Vapi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Vapi",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Veraval",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Vijapur",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Viramgam",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Visnagar",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Vyara",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Wadhwan",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Wankaner",
+    "stateKey": "Gujarat"
+  },
+  {
+    "city": "Bahadurgarh",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Bhiwani",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Charkhi Dadri",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Faridabad",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Fatehabad",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Gohana",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Gurgaon",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Hansi",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Hisar",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Jind",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Kaithal",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Karnal",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Ladwa",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Mahendragarh",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Mandi Dabwali",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Narnaul",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Narwana",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Palwal",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Panchkula",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Panipat",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Pehowa",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Pinjore",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Rania",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Ratia",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Rewari",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Rohtak",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Safidon",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Samalkha",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Sarsod",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Shahbad",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Sirsa",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Sohna",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Sonipat",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Taraori",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Thanesar",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Tohana",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Yamunanagar",
+    "stateKey": "Haryana"
+  },
+  {
+    "city": "Mandi",
+    "stateKey": "Himachal Pradesh"
+  },
+  {
+    "city": "Nahan",
+    "stateKey": "Himachal Pradesh"
+  },
+  {
+    "city": "Palampur",
+    "stateKey": "Himachal Pradesh"
+  },
+  {
+    "city": "Shimla",
+    "stateKey": "Himachal Pradesh"
+  },
+  {
+    "city": "Solan",
+    "stateKey": "Himachal Pradesh"
+  },
+  {
+    "city": "Sundarnagar",
+    "stateKey": "Himachal Pradesh"
+  },
+  {
+    "city": "Anantnag",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Baramula",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Jammu",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Kathua",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Punch",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Rajauri",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Sopore",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Srinagar",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Udhampur",
+    "stateKey": "Jammu and Kashmir"
+  },
+  {
+    "city": "Adityapur",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Bokaro Steel City",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Chaibasa",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Chatra",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Chirkunda",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Medininagar (Daltonganj)",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Deoghar",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Dhanbad",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Dumka",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Giridih",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Gumia",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Hazaribag",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Jamshedpur",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Jhumri Tilaiya",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Lohardaga",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Madhupur",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Mihijam",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Musabani",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Pakaur",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Patratu",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Phusro",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Ramgarh",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Ranchi",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Sahibganj",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Saunda",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Simdega",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Tenu dam-cum-Kathhara",
+    "stateKey": "Jharkhand"
+  },
+  {
+    "city": "Adyar",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Afzalpur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Arsikere",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Athni",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Bengaluru",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Belagavi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Ballari",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Chikkamagaluru",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Davanagere",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Gokak",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Hubli-Dharwad",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Karwar",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Kolar",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Lakshmeshwar",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Lingsugur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Maddur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Madhugiri",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Madikeri",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Magadi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mahalingapura",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Malavalli",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Malur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mandya",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mangaluru",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Manvi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mudalagi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mudabidri",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Muddebihal",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mudhol",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mulbagal",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mundargi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Mysore",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Nanjangud",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Nargund",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Navalgund",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Nelamangala",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Pavagada",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Piriyapatna",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Puttur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Rabkavi Banhatti",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Raayachuru",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Ranebennuru",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Ramanagaram",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Ramdurg",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Ranibennur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Robertson Pet",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Ron",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sadalagi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sagara",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sakaleshapura",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sindagi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sanduru",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sankeshwara",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Saundatti-Yellamma",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Savanur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sedam",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Shahabad",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Shahpur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Shiggaon",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Shikaripur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Shivamogga",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Surapura",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Shrirangapattana",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sidlaghatta",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sindhagi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sindhnur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sira",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Sirsi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Siruguppa",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Srinivaspur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Tarikere",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Tekkalakote",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Terdal",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Talikota",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Tiptur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Tumkur",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Udupi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Vijayapura",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Wadi",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Yadgir",
+    "stateKey": "Karnataka"
+  },
+  {
+    "city": "Adoor",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Alappuzha",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Attingal",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Chalakudy",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Changanassery",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Cherthala",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Chittur-Thathamangalam",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Guruvayoor",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kanhangad",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kannur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kasaragod",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kayamkulam",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kochi",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kodungallur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kollam",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kottayam",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kozhikode",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Kunnamkulam",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Malappuram",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Mattannur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Mavelikkara",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Mavoor",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Muvattupuzha",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Nedumangad",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Neyyattinkara",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Nilambur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Ottappalam",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Palai",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Palakkad",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Panamattom",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Panniyannur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Pappinisseri",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Paravoor",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Pathanamthitta",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Peringathur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Perinthalmanna",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Perumbavoor",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Ponnani",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Punalur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Puthuppally",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Koyilandy",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Shoranur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Taliparamba",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Thiruvalla",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Thodupuzha",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Thrissur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Tirur",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Vaikom",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Varkala",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Vatakara",
+    "stateKey": "Kerala"
+  },
+  {
+    "city": "Lakshadweep",
+    "stateKey": "Lakshadweep"
+  },
+  {
+    "city": "Alirajpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Ashok Nagar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Balaghat",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Bhopal",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Ganjbasoda",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Gwalior",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Indore",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Itarsi",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Jabalpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Lahar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Maharajpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mahidpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Maihar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Malaj Khand",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Manasa",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Manawar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mandideep",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mandla",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mandsaur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mauganj",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mhow Cantonment",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mhowgaon",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Morena",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Multai",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Mundi",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Murwara (Katni)",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Nagda",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Nainpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Narsinghgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Narsinghgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Neemuch",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Nepanagar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Niwari",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Nowgong",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Nowrozabad (Khodargama)",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Pachore",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Pali",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Panagar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Pandhurna",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Panna",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Pasan",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Pipariya",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Pithampur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Porsa",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Prithvipur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Raghogarh-Vijaypur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Rahatgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Raisen",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Rajgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Ratlam",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Rau",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Rehli",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Rewa",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sabalgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sagar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sanawad",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sarangpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sarni",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Satna",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sausar",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sehore",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sendhwa",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Seoni",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Seoni-Malwa",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Shahdol",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Shajapur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Shamgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sheopur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Shivpuri",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Shujalpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sidhi",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sihora",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Singrauli",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sironj",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Sohagpur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Tarana",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Tikamgarh",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Ujjain",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Umaria",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Vidisha",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Vijaypur",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Wara Seoni",
+    "stateKey": "Madhya Pradesh"
+  },
+  {
+    "city": "Ahmednagar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Akola",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Akot",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Amalner",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Ambejogai",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Amravati",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Anjangaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Arvi",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Aurangabad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Bhiwandi",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Dhule",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Kalyan-Dombivali",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Ichalkaranji",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Kalyan-Dombivali",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Karjat",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Latur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Loha",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Lonar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Lonavla",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mahad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Malegaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Malkapur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mangalvedhe",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mangrulpir",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Manjlegaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Manmad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Manwath",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mehkar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mhaswad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mira-Bhayandar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Morshi",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mukhed",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Mul",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Greater Mumbai",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Murtijapur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nagpur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nanded-Waghala",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nandgaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nandura",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nandurbar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Narkhed",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nashik",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Navi Mumbai",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nawapur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Nilanga",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Osmanabad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Ozar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pachora",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Paithan",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Palghar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pandharkaoda",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pandharpur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Panvel",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Parbhani",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Parli",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Partur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pathardi",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pathri",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Patur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pauni",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pen",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Phaltan",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pulgaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pune",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Purna",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Pusad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Rahuri",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Rajura",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Ramtek",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Ratnagiri",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Raver",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Risod",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sailu",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sangamner",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sangli",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sangole",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sasvad",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Satana",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Satara",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Savner",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sawantwadi",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shahade",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shegaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shendurjana",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shirdi",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shirpur-Warwade",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shirur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shrigonda",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Shrirampur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sillod",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Sinnar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Solapur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Soyagaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Talegaon Dabhade",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Talode",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Tasgaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Thane",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Tirora",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Tuljapur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Tumsar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Uchgaon",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Udgir",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Umarga",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Umarkhed",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Umred",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Uran",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Uran Islampur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Vadgaon Kasba",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Vaijapur",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Vasai-Virar",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Vita",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Wadgaon Road",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Wai",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Wani",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Wardha",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Warora",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Warud",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Washim",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Yavatmal",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Yawal",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Yevla",
+    "stateKey": "Maharashtra"
+  },
+  {
+    "city": "Imphal",
+    "stateKey": "Manipur"
+  },
+  {
+    "city": "Lilong",
+    "stateKey": "Manipur"
+  },
+  {
+    "city": "Mayang Imphal",
+    "stateKey": "Manipur"
+  },
+  {
+    "city": "Thoubal",
+    "stateKey": "Manipur"
+  },
+  {
+    "city": "Nongstoin",
+    "stateKey": "Meghalaya"
+  },
+  {
+    "city": "Shillong",
+    "stateKey": "Meghalaya"
+  },
+  {
+    "city": "Tura",
+    "stateKey": "Meghalaya"
+  },
+  {
+    "city": "Aizawl",
+    "stateKey": "Mizoram"
+  },
+  {
+    "city": "Lunglei",
+    "stateKey": "Mizoram"
+  },
+  {
+    "city": "Saiha",
+    "stateKey": "Mizoram"
+  },
+  {
+    "city": "Dimapur",
+    "stateKey": "Nagaland"
+  },
+  {
+    "city": "Kohima",
+    "stateKey": "Nagaland"
+  },
+  {
+    "city": "Mokokchung",
+    "stateKey": "Nagaland"
+  },
+  {
+    "city": "Tuensang",
+    "stateKey": "Nagaland"
+  },
+  {
+    "city": "Wokha",
+    "stateKey": "Nagaland"
+  },
+  {
+    "city": "Zunheboto",
+    "stateKey": "Nagaland"
+  },
+  {
+    "city": "Balangir",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Baleshwar Town",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Barbil",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Bargarh",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Baripada Town",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Bhadrak",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Bhawanipatna",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Bhubaneswar",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Brahmapur",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Byasanagar",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Cuttack",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Dhenkanal",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Jatani",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Jharsuguda",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Kendrapara",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Kendujhar",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Malkangiri",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Nabarangapur",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Paradip",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Parlakhemundi",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Pattamundai",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Phulabani",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Puri",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Rairangpur",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Rajagangapur",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Raurkela",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Rayagada",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Sambalpur",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Soro",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Sunabeda",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Sundargarh",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Talcher",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Tarbha",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Titlagarh",
+    "stateKey": "Orissa"
+  },
+  {
+    "city": "Karaikal",
+    "stateKey": "Puducherry"
+  },
+  {
+    "city": "Mahe",
+    "stateKey": "Puducherry"
+  },
+  {
+    "city": "Pondicherry",
+    "stateKey": "Puducherry"
+  },
+  {
+    "city": "Yanam",
+    "stateKey": "Puducherry"
+  },
+  {
+    "city": "Amritsar",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Barnala",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Batala",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Bathinda",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Dhuri",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Faridkot",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Fazilka",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Firozpur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Firozpur Cantt.",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Gobindgarh",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Gurdaspur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Hoshiarpur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Jagraon",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Jalandhar Cantt.",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Jalandhar",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Kapurthala",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Khanna",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Kharar",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Kot Kapura",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Longowal",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Ludhiana",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Malerkotla",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Malout",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Mansa",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Moga",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Mohali",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Morinda, India",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Mukerian",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Muktsar",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Nabha",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Nakodar",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Nangal",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Nawanshahr",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Pathankot",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Patiala",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Pattran",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Patti",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Phagwara",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Phillaur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Qadian",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Raikot",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Rajpura",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Rampura Phul",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Rupnagar",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Samana",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Sangrur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Sirhind Fatehgarh Sahib",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Sujanpur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Sunam",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Talwara",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Tarn Taran",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Urmar Tanda",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Zira",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Zirakpur",
+    "stateKey": "Punjab"
+  },
+  {
+    "city": "Ajmer",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Alwar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Bikaner",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Bharatpur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Bhilwara",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Jaipur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Jodhpur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Lachhmangarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Ladnu",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Lakheri",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Lalsot",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Losal",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Makrana",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Malpura",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Mandalgarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Mandawa",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Mangrol",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Merta City",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Mount Abu",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nadbai",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nagar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nagaur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nasirabad",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nathdwara",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Neem-Ka-Thana",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nimbahera",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nohar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Nokha",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Pali",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Phalodi",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Phulera",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Pilani",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Pilibanga",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Pindwara",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Pipar City",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Prantij",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Pratapgarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Raisinghnagar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rajakhera",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rajaldesar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rajgarh (Alwar)",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rajgarh (Churu)",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rajsamand",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Ramganj Mandi",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Ramngarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Ratangarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rawatbhata",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Rawatsar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Reengus",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sadri",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sadulshahar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sadulpur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sagwara",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sambhar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sanchore",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sangaria",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sardarshahar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sawai Madhopur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Shahpura",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Shahpura",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sheoganj",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sikar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sirohi",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sojat",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sri Madhopur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sujangarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Sumerpur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Suratgarh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Taranagar",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Todabhim",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Todaraisingh",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Tonk",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Udaipur",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Udaipurwati",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Vijainagar, Ajmer",
+    "stateKey": "Rajasthan"
+  },
+  {
+    "city": "Gangtok",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Pakyong",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Namchi",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Jorethang",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Rangpo",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Singtam",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Gyalshing",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Mangan",
+    "stateKey": "Sikkim"
+  },
+  {
+    "city": "Arakkonam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Aruppukkottai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Chennai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Coimbatore",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Erode",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Gobichettipalayam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Kancheepuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Karur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Lalgudi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Madurai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Manachanallur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Nagapattinam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Nagercoil",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Namagiripettai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Namakkal",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Nandivaram-Guduvancheri",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Nanjikottai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Natham",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Nellikuppam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Neyveli (TS)",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "O' Valley",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Oddanchatram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "P.N.Patti",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pacode",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Padmanabhapuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Palani",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Palladam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pallapatti",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pallikonda",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Panagudi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Panruti",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Paramakudi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Parangipettai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pattukkottai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Perambalur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Peravurani",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Periyakulam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Periyasemur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pernampattu",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pollachi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Polur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Ponneri",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pudukkottai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Pudupattinam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Puliyankudi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Punjaipugalur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Ranipet",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Rajapalayam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Ramanathapuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Rameshwaram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Rasipuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Salem",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sankarankoil",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sankari",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sathyamangalam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sattur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Shenkottai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sholavandan",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sholingur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sirkali",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sivaganga",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sivagiri",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Sivakasi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Srivilliputhur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Surandai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Suriyampalayam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tenkasi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thammampatti",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thanjavur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tharamangalam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tharangambadi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Theni Allinagaram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thirumangalam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thirupuvanam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thiruthuraipoondi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thiruvallur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thiruvarur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Thuraiyur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tindivanam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruchendur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruchengode",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruchirappalli",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tirukalukundram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tirukkoyilur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tirunelveli",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tirupathur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tirupathur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruppur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruttani",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruvannamalai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tiruvethipuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Tittakudi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Udhagamandalam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Udumalaipettai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Unnamalaikadai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Usilampatti",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Uthamapalayam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Uthiramerur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vadakkuvalliyur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vadalur",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vadipatti",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Valparai",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vandavasi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vaniyambadi",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vedaranyam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vellakoil",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vellore",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Vikramasingapuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Viluppuram",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Virudhachalam",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Virudhunagar",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Viswanatham",
+    "stateKey": "Tamil Nadu"
+  },
+  {
+    "city": "Adilabad",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Bellampalle",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Bhadrachalam",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Bhainsa",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Bhongir",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Bodhan",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Farooqnagar",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Gadwal",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Hyderabad",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Jagtial",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Jangaon",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Kagaznagar",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Kamareddy",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Karimnagar",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Khammam",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Koratla",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Kothagudem",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Kyathampalle",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Mahbubnagar",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Mancherial",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Mandamarri",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Manuguru",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Medak",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Miryalaguda",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Nagarkurnool",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Narayanpet",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Nirmal",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Nizamabad",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Palwancha",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Ramagundam",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Sadasivpet",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Sangareddy",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Siddipet",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Sircilla",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Suryapet",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Tandur",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Vikarabad",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Wanaparthy",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Warangal",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Yellandu",
+    "stateKey": "Telangana"
+  },
+  {
+    "city": "Agartala",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Belonia",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Dharmanagar",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Kailasahar",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Khowai",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Pratapgarh",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Udaipur",
+    "stateKey": "Tripura"
+  },
+  {
+    "city": "Achhnera",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Agra",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Aligarh",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Allahabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Amroha",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Azamgarh",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Bahraich",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Chandausi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Etawah",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Firozabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Fatehpur Sikri",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Hapur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Hardoi ",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Jhansi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Kalpi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Kanpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Khair",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Laharpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Lakhimpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Lal Gopalganj Nindaura",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Lalitpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Lalganj",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Lar",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Loni",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Lucknow",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Mathura",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Meerut",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Modinagar",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Moradabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Nagina",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Najibabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Nakur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Nanpara",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Naraura",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Naugawan Sadat",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Nautanwa",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Nawabganj",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Nehtaur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Niwai",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Noida",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Noorpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Obra",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Orai",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Padrauna",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Palia Kalan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Parasi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Phulpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Pihani",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Pilibhit",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Pilkhuwa",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Powayan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Pukhrayan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Puranpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Purquazi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Purwa",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rae Bareli",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rampur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rampur Maniharan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rasra",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rath",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Renukoot",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Reoti",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Robertsganj",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rudauli",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Rudrapur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sadabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Safipur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Saharanpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sahaspur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sahaswan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sahawar",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sahjanwa",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Saidpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sambhal",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Samdhan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Samthar",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sandi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sandila",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sardhana",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Seohara",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shahabad, Hardoi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shahabad, Rampur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shahganj",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shahjahanpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shamli",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shamsabad, Agra",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shamsabad, Farrukhabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sherkot",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shikarpur, Bulandshahr",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shikohabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Shishgarh",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Siana",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sikanderpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sikandra Rao",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sikandrabad",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sirsaganj",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sirsi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sitapur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Soron",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Suar",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sultanpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Sumerpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Tanda",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Thakurdwara",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Thana Bhawan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Tilhar",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Tirwaganj",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Tulsipur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Tundla",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Ujhani",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Unnao",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Utraula",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Varanasi",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Vrindavan",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Warhapur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Zaidpur",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Zamania",
+    "stateKey": "Uttar Pradesh"
+  },
+  {
+    "city": "Bageshwar",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Dehradun",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Haldwani-cum-Kathgodam",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Hardwar",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Kashipur",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Manglaur",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Mussoorie",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Nagla",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Nainital",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Pauri",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Pithoragarh",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Ramnagar",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Rishikesh",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Roorkee",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Rudrapur",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Sitarganj",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Srinagar",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Tehri",
+    "stateKey": "Uttarakhand"
+  },
+  {
+    "city": "Adra",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Alipurduar",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Arambagh",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Asansol",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Baharampur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Balurghat",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Bankura",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Darjiling",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "English Bazar",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Gangarampur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Habra",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Hugli-Chinsurah",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Jalpaiguri",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Jhargram",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Kalimpong",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Kharagpur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Kolkata",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Mainaguri",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Malda",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Mathabhanga",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Medinipur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Memari",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Monoharpur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Murshidabad",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Nabadwip",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Naihati",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Panchla",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Pandua",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Paschim Punropara",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Purulia",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Raghunathpur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Raghunathganj",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Raiganj",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Rampurhat",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Ranaghat",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Sainthia",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Santipur",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Siliguri",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Sonamukhi",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Srirampore",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Suri",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Taki",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Tamluk",
+    "stateKey": "West Bengal"
+  },
+  {
+    "city": "Tarakeswar",
+    "stateKey": "West Bengal"
+  } 
+]
+}

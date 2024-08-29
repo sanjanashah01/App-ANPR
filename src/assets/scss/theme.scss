@@ -1,0 +1,55 @@
+@import "./icons.scss";
+
+// Dark Theme
+// @import "./bootstrap-dark.scss";
+// @import "./app-dark.scss";
+
+// Light Theme
+@import "./bootstrap.scss";
+@import "./app.scss";
+
+// rtl Direction
+// @import "./custom/rtl/general-rtl";
+// @import "./custom/rtl/bootstrap-rtl";
+// @import "./custom/rtl/spacing-rtl";
+// @import "./custom/rtl/float-rtl";
+// @import "./custom/rtl/text-rtl";
+// @import "./custom/rtl/structure-rtl";
+// @import "./custom/rtl/plugins-rtl";
+// @import "./custom/rtl/components-rtl";
+// @import "./custom/rtl/pages-rtl";
+
+body {
+  * {
+    outline: none;
+  }
+}
+
+.close {
+  background: transparent;
+  border: 0;
+  font-size: 10px;
+  padding: 1.35rem 1.25rem;
+  background: transparent escape-svg($btn-close-bg) center / $btn-close-width
+    auto no-repeat;
+  position: absolute;
+  top: 0;
+  right: 0;
+  opacity: 0.5;
+  width: 1em;
+  height: 1em;
+  z-index: 2;
+  span {
+    display: none;
+  }
+}
+
+.rdt_TableBody {
+  min-height: 120px;
+}
+.dash-icon{    width: 50px;
+  text-align: center;
+  margin-left: -25px;
+  height: 50px;
+  line-height: 50px;
+  margin-top: -25px; position: absolute; top: 50%; left: 50%; font-size: 21px;}
